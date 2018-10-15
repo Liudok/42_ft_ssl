@@ -16,7 +16,7 @@ CC          = clang
 
 CFLAGS      = -Wall -Wextra -Werror
 
-SRCS        = main.c parser.c
+SRCS        = main.c parser.c utils.c
 
 OBJS        = $(SRCS:.c=.o)
 

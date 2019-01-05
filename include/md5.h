@@ -5,6 +5,7 @@
 
 #include "../libft/libft.h"
 
+# define BUF 10000
 
 enum errors
 {
